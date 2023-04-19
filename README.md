@@ -1,5 +1,1 @@
-
-
-
-git branch -M main
-git remote add origin git
+Git clone into another repository
