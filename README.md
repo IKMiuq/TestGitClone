@@ -1,1 +1,1 @@
-Git clone into another repository
+Git clone into another repository.
